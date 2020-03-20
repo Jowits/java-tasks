@@ -30,3 +30,17 @@ class FooBar {
 	
        
 }
+
+// Pseudo code:
+// hash_map = create_new_hash_map()
+// for (int item : arr)
+//    {
+//    if(hash_map.contains_key(item)
+//    {
+//       hash_map.put(item, hash_map.get(item) + 1);
+//    }else {
+//       hash_map.put(elemnt, 1);
+//    }
+   
+//    System.out.println(hash_map)
+//  }
