@@ -11,7 +11,7 @@ public class NewHelloWorld {
 	}
 
 }
-
+// class fooBar
 class FooBar {
     public static void main(int n) {
 	for (int i = 1; i <= n; i++) {
